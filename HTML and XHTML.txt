@@ -1,0 +1,10 @@
+XHTML-Extensible Hyper Text Markup Language
+     -There are only paired tags
+     -structured and processing is not a problem
+     -It is the combination of XML and HTML
+     -Doctype is not necessary to write at the top
+HTML-Hyper Text Markup Language
+    -Has paired and unpaired tags
+    -error-free language
+    -It is extended from SGML
+    -Doctype is necessary at the top
